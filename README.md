@@ -92,7 +92,7 @@ DHCP: Enabled
 IPv4: Enabled
 IPv6: Disabled
 
-
+![](Nat-network.png)
 
 The NAT Network allows multiple virtual machines to communicate with each other while providing controlled outbound network connectivity.
 
@@ -112,6 +112,8 @@ Attached to: NAT Network
 Network:     NatNetwork
 ```
 
+
+
 ---
 
 ## Step 5 – Configure Kali Linux Network
@@ -126,6 +128,8 @@ Subnet Mask: 255.255.255.0
 Gateway: 10.0.0.1
 DNS: 8.8.8.8
 ```
+
+
 
 ---
 
@@ -208,3 +212,18 @@ I learned how to configure and verify IPv4 addressing, subnet masks, gateways, a
 ### 4. VM Snapshots
 
 I learned how to capture a clean VM which can be used as a recovery point for the laboratory, if future experiments modify the VM configuration or cause unwanted changes.
+
+---
+
+## 👨‍💻 Author
+
+Nusi Parthasaradhi Reddy
+
+Cybersecurity Professional B083
+
+---
+
+## 📌 Project Information
+
+Program Name: Cybersecurity at Networkwalks | Week: 01 | Project: Cybersecurity & Pentesting Lab Setup |
+Repository: GitHub
