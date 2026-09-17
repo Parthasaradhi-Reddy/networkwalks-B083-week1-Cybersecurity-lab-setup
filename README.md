@@ -221,7 +221,7 @@ I learned how to capture a clean VM which can be used as a recovery point for th
 
 Nusi Parthasaradhi Reddy
 
-Cybersecurity Professional B083
+Cybersecurity Trainee | LinkedIn: https://www.linkedin.com/in/nusi-parthasaradhi-reddy-13a6a8247/
 
 ---
 
