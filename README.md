@@ -112,7 +112,7 @@ Attached to: NAT Network
 Network:     NatNetwork
 ```
 
-
+![](Kali-linux.png)
 
 ---
 
@@ -129,13 +129,15 @@ Gateway: 10.0.0.1
 DNS: 8.8.8.8
 ```
 
-
+![](Kali-linux-network-config.png)
 
 ---
 
 ## Step 6 - Create a Clean VM Snapshot
 
 After completing the initial configuration, a clean VirtualBox snapshot was captured.
+
+![](VM-snapshot.png)
 
 The snapshot provides a recovery point for the laboratory, if future experiments modify the VM configuration or cause unwanted changes.
 
